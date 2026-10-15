@@ -1,0 +1,6 @@
+************* Module maintenance_system
+maintenance_system.py:70:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.86/10 (previous run: 6.55/10, +3.31)
+
